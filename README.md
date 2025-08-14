@@ -1,0 +1,1 @@
+# DigikalasDesktopVersion-Not-Responsive

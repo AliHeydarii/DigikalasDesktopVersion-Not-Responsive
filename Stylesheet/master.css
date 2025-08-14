@@ -1,0 +1,51 @@
+@import "tailwindcss";
+@layer base{
+    @font-face {
+        font-family: 'iran_light';
+        src: url(../fonts/IRANSansX-Light.ttf) format('truetype');
+    }
+    @font-face {
+        font-family: 'iran_bold';
+        src: url(../fonts/IRANSansX-Bold.ttf) format('truetype');
+    }
+    @font-face {
+        font-family: 'iran_medium';
+        src: url(../fonts/IRANSansX-Medium.ttf) format('truetype');
+    }
+    @font-face {
+        font-family: 'iran_regular';
+        src: url(../fonts/IRANSansX-Regular.ttf) format('truetype');
+    }
+    @font-face {
+        font-family: 'Merienda';
+        src: url(../fonts/Merienda-Regular.ttf);
+    }
+}
+@property --border-angle {
+    syntax: "<angle>";
+    inherits: false;
+    initial-value: 315deg;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.fontlight{
+    font-family: 'iran_light';
+}
+.fontbold{
+    font-family: 'iran_bold';
+}
+.fontmedium{
+    font-family: 'iran_medium';
+}
+.fontregular{
+    font-family: 'iran_regular';
+}
+.scale_cart{
+    transform: scaleX(-1);
+}
+.Merienda{
+    font-family: 'Merienda';
+}

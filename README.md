@@ -1,6 +1,6 @@
 # DigikalasDesktopVersion-Not-Responsive
 
-![viewfinal](https://github.com/user-attachments/assets/2fc390d8-57d1-49bb-8a6e-a1d77c998025)
+   ![viewfinal](https://github.com/user-attachments/assets/2fc390d8-57d1-49bb-8a6e-a1d77c998025)
 ![viewfinal](https://github.com/user-attachments/assets/6f9b2e5e-8aff-445b-a132-7534bba56da8)
 ![viewfinal](https://github.com/user-attachments/assets/ea1be6a1-fca6-4a87-bf5c-fb33f6648dcb)
 ![viewfinal](https://github.com/user-attachments/assets/56aca25a-324b-4d35-8383-2679cb5ac016)
